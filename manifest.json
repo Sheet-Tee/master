@@ -2,22 +2,16 @@
   "name": "Sheet-Tee Golf",
   "short_name": "Sheet-Tee",
   "description": "Private tee sheet app for your golf group",
-  "start_url": "/sheet-tee-demo/",
-  "scope": "/sheet-tee-demo/",
+  "start_url": "/demo2.0/",
+  "scope": "/demo2.0/",
   "display": "standalone",
   "background_color": "#1a3a2a",
   "theme_color": "#1a3a2a",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "golf-ball.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
